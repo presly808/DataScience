@@ -1,0 +1,21 @@
+0. https://www.youtube.com/watch?v=8LYhaWQE4m4&feature=youtu.be
+
+1. Do overview of next chapters from Deep Learning book
+	* Prepare questions
+	* Make some notes	
+	
+	Linear Algebra
+	http://www.deeplearningbook.org/contents/linear_algebra.html
+	
+	Probability and Information Theory
+	http://www.deeplearningbook.org/contents/prob.html
+	
+2. Install 
+	* PyCharm 
+	* anaconda3 or miniconda
+	
+3. If you will have free time, please start to learn anaconda's packages
+	* numpy
+	* scipy
+	* pandas
+	* scikit-learn
