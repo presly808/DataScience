@@ -1,0 +1,36 @@
+0. Finish prev. tasks (2h)
+	- SQL task -> Should be sql query and its results
+	- Debug classes's examples -> find in github repo(classwork folder) 
+	- install 
+		- anaconda 3 or miniconda
+		- PyCharm
+		- jpython
+
+1. ---- Will be added
+
+2. Overview anaconda's packages (3h)
+	- numpy
+		https://docs.scipy.org/doc/numpy-dev/user/quickstart.html
+	- pandas
+		https://pandas.pydata.org/pandas-docs/stable/10min.html
+
+3. Math Theory. Define weaknesses, write down all questions. It will be useful in further lessons. 
+	This point is optional. If you know it already you can skip it. (2h)
+	https://www.youtube.com/playlist?list=PLvmHg49t5OCR1XM7MSahtj5THeq4ltbth
+
+4. Preparation before next lesson (3-4 h). Please make some notes to access quickly during.
+	https://www.youtube.com/playlist?list=PLvmHg49t5OCRUd3OZzlo-qr26knhKf4T3
+
+Books and Notes. You can use these as references. 
+	- Andrey Ng Stanford
+		Linear Algebra
+			http://cs229.stanford.edu/section/cs229-linalg.pdf
+		Probability Theory Review
+			http://cs229.stanford.edu/section/cs229-prob.pdf
+		Supervised Learning, Discriminative Algorithms
+			http://cs229.stanford.edu/notes/cs229-notes1.pdf
+	- Deep Learning Book
+		http://www.deeplearningbook.org
+	- Andrey Ng Coursera
+		https://www.coursera.org/learn/machine-learning
+		A lot of interesting material. Please sing up to watch materials
