@@ -6,7 +6,7 @@
 		- PyCharm
 		- jupyter
 
-1. Dataset cleaning task. Please see "dataset_descr.txt" for task description.
+1. Dataset cleaning task. Please see "dataset_descr.md" for task description.
 
 2. Overview anaconda's packages (3h)
 	- numpy
