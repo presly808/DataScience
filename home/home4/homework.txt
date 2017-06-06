@@ -1,0 +1,21 @@
+Read paragraph 5.Logistic Regression 
+http://cs229.stanford.edu/notes/cs229-notes1.pdf
+
+Watch videos:
+https://www.youtube.com/watch?v=_cPBa6lPSaU&list=PL0Smm0jPm9WcCsYvbhPCdizqNKps69W4Z&index=32
+https://www.youtube.com/watch?v=-33XCqO2ezU&list=PL0Smm0jPm9WcCsYvbhPCdizqNKps69W4Z&index=33
+https://www.youtube.com/watch?v=UJWfVf69C4k&list=PL0Smm0jPm9WcCsYvbhPCdizqNKps69W4Z&index=34
+https://www.youtube.com/watch?v=rtD0RvfBJqQ&list=PL0Smm0jPm9WcCsYvbhPCdizqNKps69W4Z&index=35
+https://www.youtube.com/watch?v=YUCen9E79YY&list=PL0Smm0jPm9WcCsYvbhPCdizqNKps69W4Z&index=36
+
+Homework:
+Use dataset "data2.txt".
+
+Implement function that finds distance between two dots in n-dim.
+
+If distance from new dot to closest existing one < some threshold, implement tweak to predict this new dot value (as a superposition of predicted value from our model and a value of closest existing point). 
+See the end of a lecture for details.
+
+Make visualization.
+
+Can we derive threshold value from the train data itself?
